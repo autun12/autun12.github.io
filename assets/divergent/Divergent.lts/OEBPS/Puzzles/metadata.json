@@ -1,0 +1,15 @@
+{
+  "puzzles": [
+    {
+      "id": "divergent-factions-challenge-medium",
+      "title": "The Factions of Divergent",
+      "difficulty": "medium",
+      "associatedSections": ["Throughout the Novel"],
+      "description": "Help the characters of 'Divergent' find their places! Use the clues provided to match each character with their faction, role, and characteristic item. Remember, no two characters share the same faction, role, or item.",
+      "files": {
+        "html": "divergent-factions-challenge-medium.html",
+        "state": "divergent-factions-challenge-medium-state.json"
+      }
+    }
+  ]
+}

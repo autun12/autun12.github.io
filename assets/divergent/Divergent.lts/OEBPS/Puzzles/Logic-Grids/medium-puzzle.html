@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Factions of Divergent</title>
+     <link rel="stylesheet" href="../../CSS/logic-grid-style.css">
+    <script src="../puzzle.js"></script>
+</head>
+<body id="medium"> <!-- id for js file to fetch state.json file -->
+    <h2>The Factions of Divergent</h2>
+    <p>Help the characters of "Divergent" find their places! Use the clues provided to match each character with their faction, role, and characteristic item. Remember, no two characters share the same faction, role, or item.</p>
+    <div class="clues">
+        <p>Clues:</p>
+        <ol>
+            <li>The person from Dauntless cherishes a Knife but is not the Leader.</li>
+            <li>Caleb, who does not have the Compass, belongs to a different faction than the Spy.</li>
+            <li>The Healer, who isn't Tris, holds onto Medicine.</li>
+            <li>Tobias is neither the Spy nor the Scout and does not belong to Amity.</li>
+            <li>The person from Abnegation, who is not Caleb, carries a Book.</li>
+            <li>Christina, who is not the Healer, belongs to neither Erudite nor Abnegation.</li>
+            <li>The person with the Compass is either the Scout or the Leader.</li>
+        </ol>
+    </div>
+    <table class="logic-grid">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Tris</th>
+                <th>Tobias</th>
+                <th>Caleb</th>
+                <th>Christina</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Abnegation</td>
+                <td><span id="cell-0-0" class="cell"></span></td>
+                <td><span id="cell-0-1" class="cell"></span></td>
+                <td><span id="cell-0-2" class="cell"></span></td>
+                <td><span id="cell-0-3" class="cell"></span></td>
+            </tr>
+            <tr>
+                <td>Dauntless</td>
+                <td><span id="cell-1-0" class="cell"></span></td>
+                <td><span id="cell-1-1" class="cell"></span></td>
+                <td><span id="cell-1-2" class="cell"></span></td>
+                <td><span id="cell-1-3" class="cell"></span></td>
+            </tr>
+            <tr>
+                <td>Erudite</td>
+                <td><span id="cell-2-0" class="cell"></span></td>
+                <td><span id="cell-2-1" class="cell"></span></td>
+                <td><span id="cell-2-2" class="cell"></span></td>
+                <td><span id="cell-2-3" class="cell"></span></td>
+            </tr>
+            <tr>
+                <td>Amity</td>
+                <td><span id="cell-3-0" class="cell"></span></td>
+                <td><span id="cell-3-1" class="cell"></span></td>
+                <td><span id="cell-3-2" class="cell"></span></td>
+                <td><span id="cell-3-3" class="cell"></span></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
