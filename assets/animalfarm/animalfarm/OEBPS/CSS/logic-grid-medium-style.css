@@ -1,0 +1,235 @@
+/* Merged CSS with additional adjustments */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+header h2 {
+    text-shadow: 1px 1px #007700; /* Adds depth to the title */
+}
+
+.clues-container {
+    background-color: #fff; /* Bright background for contrast */
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    max-width: fit-content; /* Make the container only as wide as its content */
+    margin-left: 0; /* Align it to the left side */
+}
+
+.clues-container h3 {
+    color: #006600;
+    margin-bottom: 10px;
+}
+
+.clues-list {
+    counter-reset: clue-counter; /* Resets the counter for ordered list */
+    list-style: none; /* Removes default list style */
+    padding-left: 0; /* Removes default padding */
+}
+
+.clues-list li {
+    counter-increment: clue-counter; /* Increments the counter */
+    padding-left: 25px; /* Adds space for custom numbering */
+    position: relative; /* Enables absolute positioning for pseudo-elements */
+    margin-bottom: 10px; /* Adds space between clues */
+}
+
+.clues-list li:before {
+    content: counter(clue-counter) "."; /* Inserts the counter as content */
+    position: absolute; /* Positions the counter absolutely */
+    left: 0px; /* Positions the counter to the left of the content */
+    font-weight: bold; /* Makes the counter bold */
+    color: #007700; /* Sets the counter color */
+}
+
+.table-container {
+    display: flex;
+    flex-direction: row; /* Adjusted to display grids side by side */
+    position: relative; 
+}
+
+.logic-grid {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.vertical-categories .vertical-header {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    background-color: #006600;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    min-width: 30px;
+    height: 240px; /* Adjusted to fit 4 cells */
+    border: 1px solid black; /* Added border */
+}
+
+.vertical-categories .characters {
+    height: 241px; /* Adjusted height for all components */
+    border: 2px solid black; /* Added border */
+    background-color: #007700; /* Set background color to match others */
+}
+
+.vertical-categories .tools {
+    height: 241px; /* Adjusted height for all components */
+    border: 2px solid black; /* Added border */
+    background-color: #007700; /* Set background color to match others */
+}
+
+.vertical-categories .fields{
+    height: 241px; /* Adjusted height for all components */
+    border: 2px solid black; /* Added border */
+    background-color: #007700; /* Set background color to match others */
+}
+
+.vertical-categories .empty-cell {
+    height: 119px; /* Adjusted height for the empty cell */
+    background-color: #f5f5f5; /* Set background color to match others */
+    border: none; /* Remove standard cell border */
+}
+
+.main-puzzle th, .main-puzzle td {
+    padding: 8px;
+    text-align: center;
+    min-width: 60px;
+    height: 60px;
+}
+
+.logic-grid th {
+    background-color: #007700;
+    color: white;
+}
+
+.logic-grid .category {
+    background-color: #007700;
+    color: white;
+}
+
+.cell {
+    cursor: pointer;
+    user-select: none;
+    background-color: #FFFFFF;
+}
+
+.cell:hover {
+    background-color: #eaeaea;
+}
+
+.cell.no {
+    background-color: #ffcccc;
+}
+
+.cell.yes {
+    background-color: #ccffcc;
+}
+
+.cell.unknown {
+    background-color: #fff5cc;
+}
+
+/* Adjusting borders for logic grid */
+.logic-grid th, .logic-grid td {
+    border: 1px solid #ddd; /* Default border for all cells */
+}
+
+/* Strong borders for category headers */
+.logic-grid .category, .logic-grid thead th {
+    border: 2px solid black;
+}
+
+/* Adding border between components */
+.vertical-categories .empty-cell + .vertical-header,
+.vertical-categories .characters + .vertical-header,
+.vertical-categories .fields + .vertical-header,
+.vertical-categories .tools + .vertical-header {
+    border-left: 1px solid black;
+}
+
+/* Add right border to every 4th cell in the main puzzle grid */
+.main-puzzle td:nth-child(4n+1), /* Targets the 3rd cell in each row */
+.main-puzzle td:nth-child(4n+1) { /* Targets the 6th cell in each row, if your grid extends that far */
+    border-right: 2px solid black;
+}
+
+/* Add bottom border to every 4th row to separate horizontal sections */
+.main-puzzle tr:nth-child(4n) td, /* Targets all cells in the 3rd row */
+.main-puzzle tr:nth-child(4n) td { /* Targets all cells in the 6th row, if your grid extends that far */
+    border-bottom: 2px solid black;
+}
+
+
+/* Removing unwanted borders for top-left empty cells */
+.logic-grid thead th:first-child,
+.logic-grid tbody tr:first-child th:first-child {
+    border: none;
+    background-color: #f5f5f5;
+}
+
+/* Styling for the button */
+#check-solution-btn {
+    position: absolute; /* Position relative to the nearest positioned ancestor (now .table-container) */
+    left: 775px; /* Adjust this as necessary to align with the grid */
+    bottom: 125px; /* Distance from the bottom of the .table-container */
+    padding: 20px 40px;
+    font-size: 20px;
+    background-color: #007700; /* Changed to give it a green background */
+    color: white; /* Changed to contrast the background */
+    border: 2px solid #007700;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#check-solution-btn:hover {
+    background-color: #004400;
+}
+
+/* Media Query for smaller screens */
+@media (max-width: 768px) {
+    .logic-grid th, .logic-grid td {
+        padding: 4px;
+        min-width: 30px;
+        height: 30px;
+    }
+
+    .cell {
+        font-size: 0.7rem;
+    }
+    
+    .vertical-categories .vertical-header {
+        writing-mode: vertical-lr;
+        transform: rotate(180deg);
+        font-size: 0.7rem;
+        height: 160px; /* Adjusted height for smaller screens */
+        /* Removed line-height */
+        border: 1px solid black; /* Added border */
+    }
+
+    .vertical-categories .empty-cell {
+        height: 120px; /* Adjusted height for empty space on smaller screens */
+        border: 1px solid black; /* Added border */
+        background-color: #004400; /* Set background color to match others */
+    }
+
+    .vertical-categories .characters,
+    .vertical-categories .fields,
+    .vertical-categories .tools {
+        height: 160px; /* Adjusted height for categories on smaller screens */
+        border: 1px solid black; /* Added border */
+        background-color: #004400; /* Set background color to match others */
+    }
+
+    /* Adjusting flex direction for smaller screens */
+    .table-container {
+        flex-direction: column;
+    }
+
+    .logic-grid {
+        margin-top: 0; /* Adjusting margin top to avoid gap between grids */
+    }
+}

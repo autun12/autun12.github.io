@@ -86,7 +86,7 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://autun12.github.io/assets/animalfarm/AnimalFarm.lts", 
+              "href": "https://autun12.github.io/assets/divergent/divergent.lts", 
               "type": "application/epub+zip"
             }
           ],

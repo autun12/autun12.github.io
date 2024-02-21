@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:title>Animal Farm</dc:title>
+    <meta name="calibre:title_sort" content="Animal Farm"/>
+    <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.39.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Global Grey ebooks</dc:publisher>
+    <dc:date>2021-09-27T23:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2022-12-22T16:49:51.294277+00:00"/>
+    <dc:identifier opf:scheme="URL">https://www.globalgreyebooks.com/animal-farm-ebook.html</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e87fa898-d4be-42dd-8511-0804b4119b4f</dc:identifier>
+    <dc:identifier opf:scheme="calibre">e87fa898-d4be-42dd-8511-0804b4119b4f</dc:identifier>
+    <dc:description>&lt;div&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;George Orwells' Animal Farm is a 1945 book about a group of animals who organise a revolution, and take over from their human owners to run their farm themselves. The revolt is originally the idea of Old Major, who teaches the animals a song called the Beasts of England, and urges them to rise up and overthrow the humans. After Old Major dies, two young pigs, Snowball, and Napoleon carry out his wishes, and adopt the Seven Commandments of Animalism, one of which is 'All animals are equal'. The animals are taught to read and write, but as time goes on, rivalry between the two pigs develops, which culminates in Snowball being chased away and Napoleon becoming supreme leader. Growing more authoritarian, Napoleon purges the farm, executing those animals he accuses of siding with Snowball. And as more time progresses, their motto of 'All animals are equal' gets shifted to prioritise only Napoleon and the pigs. A famous piece of political satire, Animal Farm is essentially an allegory of the Stalinist era of Russia, with Orwell showing that true equality can never be, as there will always be those that rise to the top, pushing others down in the process.&lt;/p&gt;
+&lt;p&gt;The book had problems being published, largely due to the fact that it was thought it may upset the alliance between the USSR, USA and the UK. Orwell wrote of this, saying; 'The sinister fact about literary censorship in England is that it is largely voluntary...Things are kept right out of the British press, not because the Government intervenes but because of a general tacit agreement that 'it wouldn't do' to mention that particular fact.'&lt;/p&gt;
+&lt;p&gt;No. 62 in &lt;a href="https://www.globalgreyebooks.com/100-greatest-british-novels.html"&gt;The BBC's 100 Greatest British Novels&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Part of the &lt;a href="https://www.globalgreyebooks.com/encyclopaedia-britannicas-great-books-of-the-western-world-list.html"&gt;Encyclopaedia Britannica’s Great Books of the Western World&lt;/a&gt; set.&lt;/p&gt;
+&lt;p&gt;This book has 30,102 words, and was originally published in 1945.&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;&lt;strong&gt;Production notes: &lt;/strong&gt;This ebook of Animal Farm was published by Global Grey on the 18th May 2019, and updated on the 28th September 2021. The artwork used for the cover is 'Farm idyll with pigs and chickens' by Carl Bøgh.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Fiction_English-Writers</dc:subject>
+    <dc:subject>Fiction_Political</dc:subject>
+    <dc:subject>Fiction_Satire</dc:subject>
+    <dc:subject>Fiction_Short</dc:subject>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover1.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id213" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id212" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id211" href="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id210" href="index_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id29" href="index_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id28" href="index_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id27" href="index_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="id26" href="index_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="index_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="index_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="index_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="index_split_011.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="index_split_012.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="images/image-1.png" media-type="image/png"/>
+    <item id="id5" href="images/image.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference type="toc" href="index_split_002.html#id_toc" title="Table of Contents"/>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

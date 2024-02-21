@@ -1,0 +1,37 @@
+{
+  "puzzles": [
+    {
+      "id": "af-the-missing-supplies-easy",
+      "title": "The Missing Supplies",
+      "difficulty": "easy",
+      "associatedSections": ["Chapter 3: Preparations"] -> Readium opf handler can fill this field,
+      "description": "Assist Snowball, Squealer, and Boxer in finding their misplaced items around the farm.",
+      "files": {
+        "html": "af-the-missing-supplies-easy.html",
+        "state": "af-the-missing-supplies-easy-state.json"
+      }
+    },
+    {
+      "id": "af-harvest-dilemma-medium",
+      "title": "The Animal Farm's Harvest Dilemma",
+      "difficulty": "medium",
+      "associatedSections": ["Chapter 6: The Harvest"],
+      "description": "Help sort out each character's task, tool, and field for the harvest.",
+      "files": {
+        "html": "af-harvest-dilemma-medium.html",
+        "state": "af-harvest-dilemma-medium-state.json"
+      }
+    },
+    {
+      "id": "af-the-secret-meeting-hard",
+      "title": "The Secret Meeting",
+      "difficulty": "hard",
+      "associatedSections": ["Chapter 8: The Rebellion"],
+      "description": "Unravel the details of a covert meeting planned by Napoleon, Snowball, Boxer, Squealer, and Clover.",
+      "files": {
+        "html": "af-the-secret-meeting-hard.html",
+        "state": "af-the-secret-meeting-hard-state.json"
+      }
+    }
+  ]
+}
