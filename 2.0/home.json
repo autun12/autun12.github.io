@@ -91,8 +91,8 @@
             }
           ],
           "images": [
-            {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-            {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+            {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+            {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
           ]
         }
       ]

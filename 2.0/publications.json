@@ -44,13 +44,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -90,13 +90,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -133,13 +133,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -183,13 +183,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -229,13 +229,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -285,13 +285,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -319,13 +319,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -353,13 +353,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -393,13 +393,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -442,13 +442,13 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/open-access", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       }, 
       {
@@ -485,7 +485,7 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/buy", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip",
             "properties": {
               "price": {
@@ -496,8 +496,8 @@
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       },
       {
@@ -534,13 +534,13 @@
         "links": [
           {
             "rel": ["http://opds-spec.org/acquisition/sample", "preview"], 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip"
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       }, 
       {
@@ -577,7 +577,7 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/subscribe", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip",
             "properties": {
               "price": {
@@ -588,8 +588,8 @@
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       }, 
       {
@@ -626,7 +626,7 @@
         "links": [
           {
             "rel": "http://opds-spec.org/acquisition/borrow", 
-            "href": "https://autun12.github.io/assets/centredelaterre/file.epub", 
+            "href": "https://autun12.github.io/assets/animalfarm/file.lts", 
             "type": "application/epub+zip",
             "properties": {
               "copies": {
@@ -642,8 +642,8 @@
           }
         ],
         "images": [
-          {"href": "https://autun12.github.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-          {"href": "https://autun12.github.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+          {"href": "https://autun12.github.io/assets/animalfarm/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+          {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
         ]
       }
     ]
