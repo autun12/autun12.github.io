@@ -187,8 +187,8 @@
         }
       ],
       "images": [
-        {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-        {"href": "https://autun12.github.io/assets/animalfarm/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+        {"href": "https://autun12.github.io/assets/animalfarm/animalfarm.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://autun12.github.io/assets/animalfarm/animalfarm.jpg", "type": "image/jpeg", "height": 400, "width": 260}
       ]
     }
   ]
